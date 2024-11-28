@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="chenbingxuan@10.112.203.120:17877 password (6)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="chenbingxuan@10.112.203.120:17877 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_229" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenbingxuan@10.112.203.120:17877 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chenbingxuan/mac" local="$PROJECT_DIR$" />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenbingxuan@10.112.203.120:17877 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chenbingxuan/mac/1113" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenbingxuan@10.112.203.120:17877 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chenbingxuan/mac/1113_2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenbingxuan@10.112.203.120:17877 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chenbingxuan/mac/1114" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
