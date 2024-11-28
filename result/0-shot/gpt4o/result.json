@@ -1,0 +1,7 @@
+{
+  "BPlevel": 0.5967741935483871,
+  "stratification": 0.6290322580645161,
+  "singledrug(chemical)": 0.9,
+  "singledrug(type)": 0.6,
+  "combineddrugs": 0.5510204081632653
+}
